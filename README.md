@@ -8,6 +8,9 @@
 🌱 I'm now learning about **Machine Learning**.  
 📫 How to reach me: [Twitter](https://twitter.com/PaprKing01), [Instagram](https://instagram.com/igorzimmermann01).
 
+<br>
+<img src="https://i.giphy.com/Wn74RUT0vjnoU98Hnt.gif" height="320px" width="320px">
+
 <!--
 **IgorZimmermann/IgorZimmermann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
