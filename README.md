@@ -4,7 +4,7 @@
 🇭🇺 I'm from Budapest, Hungary.  
 ⚙️ Tony Stark's [Mark 38](https://marvelcinematicuniverse.fandom.com/wiki/Iron_Man_Armor:_Mark_XXXVIII).  
 ⌨️ I'm currently working on [Luni Watch](http://188.6.124.146:3030).  
-🌱 I'm now learning **C++**.  
+🌱 I want to learn **React**.  
 🎥 Favourite movie currently: [The Social Network](http://188.6.124.146:3030/movie/the-social-network).  
 📫 How to reach me: [Twitter](https://twitter.com/PaprKing01), [Instagram](https://instagram.com/igorzimmermann01).
 
