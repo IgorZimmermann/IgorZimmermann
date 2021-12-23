@@ -5,7 +5,7 @@
 ⚙️ Tony Stark's [Mark 38](https://marvelcinematicuniverse.fandom.com/wiki/Iron_Man_Armor:_Mark_XXXVIII).  
 ⌨️ I'm currently working on **zZzZzZ**.  
 🌱 I want to learn **Swift and SwiftUI**.  
-🎥 Favourite movie currently: [The Social Network](http://188.6.124.146:3030/movie/the-social-network).  
+🎥 Favourite movie currently: [The Social Network](https://www.netflix.com/title/70132721).  
 📫 How to reach me: [Twitter](https://twitter.com/PaprKing01), [Instagram](https://instagram.com/igorzimmermann01).
 
 <br>
