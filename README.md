@@ -1,15 +1,11 @@
-### Hello there 👋
+### Hi there 👋
 
 👨 My name is Igor Zimmermann.  
-🗺 I'm from Budapest, Hungary.  
+🗺 Living in Sønderborg, Denmark.    
+📓 Studying **Software Engineering** at [SDU](https://sdu.dk/en).  
 ⚙️ Tony Stark's [Mark 38](https://marvelcinematicuniverse.fandom.com/wiki/Iron_Man_Armor:_Mark_XXXVIII).  
-⌨️ I'm currently working on **zZzZzZ**.  
-🌱 I want to learn **Swift and SwiftUI**.  
-🎥 Favourite movie currently: [The Social Network](https://www.netflix.com/title/70132721).  
-📫 How to reach me: [Twitter](https://twitter.com/PaprKing01), [Instagram](https://instagram.com/igorzimmermann01).
-
-<br>
-<img src="https://i.giphy.com/Wn74RUT0vjnoU98Hnt.gif" height="320px" width="320px">
+🎥 Favourite movie: [The Social Network](https://www.netflix.com/title/70132721).  
+📫 How to reach me: [X](https://x.com/PaprKing01), [Instagram](https://instagram.com/igorzimmermann01).
 
 <!--
 **IgorZimmermann/IgorZimmermann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
